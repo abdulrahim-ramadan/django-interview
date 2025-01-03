@@ -2,6 +2,16 @@
 
 A lightweight RESTful API for managing tasks, built using **Django** and **Django REST Framework**. The API supports core operations like creating, updating, and deleting tasks.  
 
+
+
+![project demo](screencapture.png)
+
+------------------------------------
+
+
+![project demo](screencapture1.png)
+
+
 ---
 
 ## Features  
